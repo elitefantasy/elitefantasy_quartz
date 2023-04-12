@@ -31,5 +31,3 @@ enableGitInfo = true
         publishDate = ["publishDate", "date"]
     [markup.goldmark.renderer]
         unsafe = true
-
-name: elitefantasy
