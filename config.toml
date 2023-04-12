@@ -1,4 +1,4 @@
-baseURL = "https://quartz.jzhao.xyz/"
+baseURL = "https://elitefantasy.github.io/elitefantasy_quartz/"
 languageCode = "en-us"
 relativeURLs = false
 disablePathToLower = true
@@ -31,3 +31,5 @@ enableGitInfo = true
         publishDate = ["publishDate", "date"]
     [markup.goldmark.renderer]
         unsafe = true
+
+name: elitefantasy

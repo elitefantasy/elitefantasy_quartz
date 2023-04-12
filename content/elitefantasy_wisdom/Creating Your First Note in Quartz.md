@@ -18,19 +18,6 @@ Rest of your content here...
 ```
 
 
-## Preview Changes
-
-### Install Hugo-obsidian
-This step will generate the list of backlinks for Hugo to parse. Ensure you have [Go](https://golang.org/doc/install) (>= 1.16) installed.
-```
-# Install and link `hugo-obsidian` locally
-go install github.com/jackyzha0/hugo-obsidian@latest
-
-```
-
-
-
-
 
 
 
