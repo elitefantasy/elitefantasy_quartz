@@ -16,5 +16,5 @@ If you are also a student especially a PCB student then you can check out some [
 
 ## List of Top Articles 📃
 
-[My Favourite List of Softwares](My%20Favourite%20List%20of%20Softwares.md)
+[My Favourite List of Softwares](tech/windows/My%20Favourite%20List%20of%20Softwares.md)
 
