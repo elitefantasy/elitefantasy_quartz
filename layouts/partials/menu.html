@@ -1,6 +1,7 @@
 {{- $page := .page }}
 {{- $menuID := .menuID }}
 
+<!-- trying to add menu -->
 {{- with index site.Menus $menuID }}
   <nav>
     <ul>
@@ -8,6 +9,7 @@
     </ul>
   </nav>
 {{- end }}
+
 
 {{- define "partials/inline/menu/walk.html" }}
   {{- $page := .page }}

@@ -1,6 +1,7 @@
 ---
 title: Elitefantasy Homepage
 enableToc: false
+menu: "mainmenu"
 ---
 Hi 👋, I'm Elitefantasy.
 I am a medical student. Love Science and Technology. MedTech
